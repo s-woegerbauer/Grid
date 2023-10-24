@@ -1,0 +1,15 @@
+D:\GitHub\TextGrading\Grid\Grid\bin\Debug\net7.0\Grid.exe
+D:\GitHub\TextGrading\Grid\Grid\bin\Debug\net7.0\Grid.deps.json
+D:\GitHub\TextGrading\Grid\Grid\bin\Debug\net7.0\Grid.runtimeconfig.json
+D:\GitHub\TextGrading\Grid\Grid\bin\Debug\net7.0\Grid.dll
+D:\GitHub\TextGrading\Grid\Grid\bin\Debug\net7.0\Grid.pdb
+D:\GitHub\TextGrading\Grid\Grid\obj\Debug\net7.0\Grid.csproj.AssemblyReference.cache
+D:\GitHub\TextGrading\Grid\Grid\obj\Debug\net7.0\Grid.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\TextGrading\Grid\Grid\obj\Debug\net7.0\Grid.AssemblyInfoInputs.cache
+D:\GitHub\TextGrading\Grid\Grid\obj\Debug\net7.0\Grid.AssemblyInfo.cs
+D:\GitHub\TextGrading\Grid\Grid\obj\Debug\net7.0\Grid.csproj.CoreCompileInputs.cache
+D:\GitHub\TextGrading\Grid\Grid\obj\Debug\net7.0\Grid.dll
+D:\GitHub\TextGrading\Grid\Grid\obj\Debug\net7.0\refint\Grid.dll
+D:\GitHub\TextGrading\Grid\Grid\obj\Debug\net7.0\Grid.pdb
+D:\GitHub\TextGrading\Grid\Grid\obj\Debug\net7.0\Grid.genruntimeconfig.cache
+D:\GitHub\TextGrading\Grid\Grid\obj\Debug\net7.0\ref\Grid.dll
