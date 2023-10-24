@@ -44,6 +44,23 @@ namespace Grid
             Array = array;
         }
 
+        public Grid(T[,] array)
+        {
+            VerticalLength = array.GetLength(0);
+            HorizontalLength = array.GetLength(1);
+            CurrentX = 0;
+            CurrentY = 0;
+            Array = new T[VerticalLength, HorizontalLength];
+
+            for(int y = 0; y < VerticalLength; y++)
+            {
+                for(int x = 0; x < HorizontalLength; x++)
+                {
+                    Array![y,x] = ConvertStringToValue(array[y,x]!.ToString()!);
+                }
+            }
+        }
+
         public Grid(string[] lines)
         {
             CurrentX = 0;

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EmVl+PTGvl2k+C0bxXpK3y10BATKFWXjEx3ud0Lb1W8l6fcSqzW4hNRp002nQv4nGIsDenXSuRbgomzQQ23dcw==",
+  "dgSpecHash": "Vx8tMAZpfTbeotpXrSeP5wI16kXWOd7PM0oVhmkBckWCZmuVGkiFk/l+zLkav71ko2LaES9cBV5B016kRJTgXQ==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\TextGrading\\Grid\\Grid\\Grid.csproj",
+  "projectFilePath": "D:\\GitHub\\Grid\\Grid\\Grid.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\TextGrading\\Grid\\Grid\\Grid.csproj",
+      "projectUniqueName": "D:\\GitHub\\Grid\\Grid\\Grid.csproj",
       "projectName": "Grid",
-      "projectPath": "D:\\GitHub\\TextGrading\\Grid\\Grid\\Grid.csproj",
+      "projectPath": "D:\\GitHub\\Grid\\Grid\\Grid.csproj",
       "packagesPath": "C:\\Users\\simsi\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\TextGrading\\Grid\\Grid\\obj\\",
+      "outputPath": "D:\\GitHub\\Grid\\Grid\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\simsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
