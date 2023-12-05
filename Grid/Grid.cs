@@ -118,7 +118,7 @@ namespace Grid
         {
             if (horizontal >= 0 && horizontal < HorizontalLength && vertical - 1 < VerticalLength && vertical - 1 >= 0)
             {
-                return Array[horizontal, vertical - 1];
+                return Array[vertical - 1, horizontal];
             }
             else
             {
@@ -130,7 +130,7 @@ namespace Grid
         {
             if (horizontal + 1 >= 0 && horizontal + 1 < HorizontalLength && vertical < VerticalLength && vertical >= 0)
             {
-                return Array[horizontal + 1, vertical];
+                return Array[vertical, horizontal + 1];
             }
             else
             {
@@ -142,7 +142,7 @@ namespace Grid
         {
             if (horizontal >= 0 && horizontal < HorizontalLength && vertical + 1 < VerticalLength && vertical + 1 >= 0)
             {
-                return Array[horizontal, vertical + 1];
+                return Array[vertical  + 1, horizontal];
             }
             else
             {
@@ -154,7 +154,7 @@ namespace Grid
         {
             if (horizontal - 1 >= 0 && horizontal - 1 < HorizontalLength && vertical < VerticalLength && vertical >= 0)
             {
-                return Array[horizontal - 1, vertical];
+                return Array[vertical, horizontal - 1];
             }
             else
             {
